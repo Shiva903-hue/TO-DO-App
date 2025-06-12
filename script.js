@@ -17,8 +17,7 @@ function renderTasks() {
   list.innerHTML = ""; // Clear old list
 
   tasks.map((t, i) => {
-    list.innerHTML += `
-          <li> ${t}
+    list.innerHTML += `<li> ${t}
           <button onclick="deleteTask(${i})">X</button>
           </li>`;
   });
