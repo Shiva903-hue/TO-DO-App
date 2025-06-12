@@ -24,7 +24,7 @@ This project demonstrates DOM manipulation, array operations, and dynamic UI upd
 - JavaScript (Vanilla)
 
 # Explanation Video
-
+https://youtube.com/shorts/XU-RhY7qSWc?feature=share
 ---
 
 ## 🙌 Made with ❤️ by [Shivam Waghmare]
